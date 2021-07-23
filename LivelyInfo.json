@@ -1,0 +1,10 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "Matrix Rain Customizable",
+  "Desc": "Matrix like rain animation using HTML5 Canvas.",
+  "Author": "Hardhik Erat",
+  "License": "",
+  "Contact": "https://github.com/HardhikErat/Matrix-Rain",
+  "Type": 1,
+  "FileName": "index.html"
+}
